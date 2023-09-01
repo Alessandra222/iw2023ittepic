@@ -16,3 +16,11 @@ $ git add .
 
 $ git commit -m "archivo y tag"
 $ git push
+
+| Nombre           | Github                                     !
+|------------------|--------------------------------------------|
+| Sebastian Medina | https://github.com/SebastianMedina2023     |
+| Miguel De Robles | https://github.com/MDeRobles               |
+| Sandra Esperanza | https://github.com/saliesperanzama         |
+| Martin Barron    | https://github.com/DarkMartin18            |
+| Juan Graxiola    | https://github.com/Railgun124              |
