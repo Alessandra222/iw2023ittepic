@@ -114,9 +114,13 @@
 * git push origin refs/tags/v0.2<br>
 
 <h3> Borrar la rama v0.2</h3>
+* git branch -d refs/heads/v0.2
+
 
 <h1>Listado de cambios</h1>
 1. Listar los distintos commits con sus ramas y sus tags
+
+![image](https://github.com/Alessandra222/iw2023ittepic/assets/114311521/1c6fae95-c536-4c97-a7da-6387086fd7f6)
 
 <h1>Crear una organización</h1>
 1. Crear una organización llamada iw2023ittepic-tunombredeusuariodegithub
